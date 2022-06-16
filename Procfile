@@ -1,1 +1,1 @@
-web: gunicorn Pychat.wsgi --log-file=-
+web: gunicorn PyChat.wsgi 
