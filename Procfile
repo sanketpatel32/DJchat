@@ -1,1 +1,1 @@
-web: gunicorn digilocker.wsgi
+web: gunicorn digilocker.wsgi --log-file=-
