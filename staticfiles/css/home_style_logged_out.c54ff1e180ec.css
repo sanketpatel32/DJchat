@@ -1,0 +1,8 @@
+{% load static %}
+
+body {
+    background-image: url("../images/TodoBG.38564c7ee32d.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat
+}
